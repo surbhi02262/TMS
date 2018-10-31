@@ -1,0 +1,7 @@
+.tPrint{
+font-size:24px;
+}
+.componnent-to-print{
+    height:0;
+    overflow:hidden;
+}
